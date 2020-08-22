@@ -1,4 +1,4 @@
-### Hi there, I'm Karthik - aka [Ryzen-Kernel] 👋
+### Hi there, I'm Karthik - aka [Smokie-Popz] 👋
 
 
 ## I'm a Student and Developer !
