@@ -1,4 +1,4 @@
-### Hi there, I'm Karthik - aka [Smokie-Popz] <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ### Hi there, I'm Karthik - aka [Smokie-Popz] <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 
 ## I'm a Student and Developer !
