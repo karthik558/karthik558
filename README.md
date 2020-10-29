@@ -1,10 +1,10 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <b> ### Hi there, I'm Karthik SP - aka [Smokie-Popz] </b> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <b> ## Hi there, I'm Karthik SP - aka [Smokie-Popz] </b> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 
 ## I'm a Student and Developer !
 
 - 🔭 I’m currently working as [Network Support Executive] !
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 😉
 - 👯 I’m looking to collaborate with other kernel/rom developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games and spend most of the time with my GF
