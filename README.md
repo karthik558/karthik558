@@ -22,6 +22,7 @@
 [<img align="left" alt="karthik558 | SourceForge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sourceforge.svg" />][sourceforge]
 [<img align="left" alt="@karthik-sp-253029 | Pexels" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pexels.svg" />][pexels]
 [<img align="left" alt="Karthik SP | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="Karthik SP | Gamil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 <br />
 
 ### Languages and Tools:
@@ -56,6 +57,9 @@
 [sourceforge]: https://sourceforge.net/u/karthik558
 [pexels]: https://www.pexels.com/@karthik-sp-253029
 [discord]: https://discord.com/channels/@Karthik-SP
+[gmail]: https://mail.google.com/mail/u/0/#inbox.com/channels/karthik.lal558@gmail.com
+[gmail]: https://mail.google.com/mail/u/0/#inbox.com/channels/karthiksp206@gmail.com
+[gmail]: https://mail.google.com/mail/u/0/#inbox.com/channels/karthik.lal5588@gmail.com
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
