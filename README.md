@@ -6,7 +6,7 @@
 - 🔭 I’m currently working as [Network Support Executive] !
 - 🌱 I’m currently learning Python, Node JS, C++.. 😉
 - 👯 I’m looking to collaborate with other kernel/rom developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games and edit photo's
 
 ### Spotify Playing 🎧
