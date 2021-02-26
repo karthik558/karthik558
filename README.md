@@ -16,13 +16,13 @@
 
 [<img align="left" alt="karthiksp206 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="karthiksmokiez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Iambusynow | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="karthik558 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="karthik.sp.5817 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="karthik5581 | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
 [<img align="left" alt="karthik558 | SourceForge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sourceforge.svg" />][sourceforge]
 [<img align="left" alt="@karthik-sp-253029 | Pexels" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pexels.svg" />][pexels]
 [<img align="left" alt="Karthik SP | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="Karthik SP | Gamil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Karthik SP | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 <br />
 
 ### Languages and Tools:
@@ -45,15 +45,13 @@
 
 [twitter]: https://twitter.com/karthiksp206
 [instagram]: https://instagram.com/karthiksmokiez
-[telegram]: https://t.me/iambusynow
+[telegram]: https://t.me/karthik558
 [facebook]: https://www.facebook.com/karthik.sp.5817
 [gitlab]: https://gitlab.com/karthik5581
 [sourceforge]: https://sourceforge.net/u/karthik558
 [pexels]: https://www.pexels.com/@karthik-sp-253029
 [discord]: https://discord.com/channels/@Karthik-SP
 [gmail]: https://mail.google.com/mail/u/0/#inbox.com/channels/karthik.lal558@gmail.com
-[gmail]: https://mail.google.com/mail/u/0/#inbox.com/channels/karthiksp206@gmail.com
-[gmail]: https://mail.google.com/mail/u/0/#inbox.com/channels/karthik.lal5588@gmail.com
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
