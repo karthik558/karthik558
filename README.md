@@ -12,6 +12,9 @@
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/1TLtqSVyiUE5hReeSB8mua)
 
+### Github Trophy ###
+[![trophy](https://github-profile-trophy.vercel.app/?username=karthik558&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy&no-bg=true&no-frame=true)
+
 ### Connect with me:
 
 [<img align="left" alt="karthiksp206 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
