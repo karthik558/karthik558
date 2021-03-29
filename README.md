@@ -2,13 +2,13 @@
 
 ## I'm an Ethical Hacking Student and Android ROM/Kernel Developer !
 
-- 🔭 I’m currently working as [Network Support Executive] !
-- 🌱 I’m currently styuding about Space.(NF)
-- 👯 I’m looking to collaborate with other Front-End Developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play with Photoshop 😉
+- 🔭 **I’m currently working as [Network Support Executive] !**
+- 🌱 **I’m currently styuding about Space.(NF)**
+- 👯 **I’m looking to collaborate with other Front-End Developers**
+- 🥅 **2021 Goals: Contribute more to Open Source projects**
+- ⚡ **Fun fact: I love to play with Photoshop** 😉
 
-### Spotify Playing 🎧
+### Spotify Playing 🎶
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/1TLtqSVyiUE5hReeSB8mua)
 
 ### Github Trophys 🏆 
