@@ -1,7 +1,6 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <b> ## Hi there, I'm Karthik SP - aka [Smokie-Popz] </b> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <b> Hi there, I'm K A R T H I K </b> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-
-## I'm a Student and Developer !
+## I'm an Ethical Hacking Student and Android ROM/Kernel Developer !
 
 - 🔭 I’m currently working as [Network Support Executive] !
 - 🌱 I’m currently learning Python, Node JS, C++.. 😉
@@ -43,8 +42,6 @@
 
 <br />
 <br />
-
----
 
 [twitter]: https://twitter.com/karthiksp206
 [instagram]: https://instagram.com/karthiksmokiez
