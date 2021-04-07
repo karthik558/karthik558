@@ -15,7 +15,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=karthik558&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy&no-bg=true&no-frame=true)
 ---
 ### Profile Views 🔭
-![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=flat-square&color=lightgrey&label=PROFILE+VIEWS)
+![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=flat-square&color=yellow&label=PROFILE+VIEWS)
 
 ### Connect with me 📞
 [<img align="left" alt="karthiksp206 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
