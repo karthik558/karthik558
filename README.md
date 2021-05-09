@@ -1,4 +1,4 @@
-<b><h1 align='center'> Hi there, I'm K A R T H I K! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></b></h1>
+<b><h1> Hi there, I'm K A R T H I K! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></b></h1>
 <h2> <b>I'm an Ethical Hacking Student and Android ROM/Kernel Developer !</h2><b>
 
 - 🔭 **I’m currently working as [Network Support Executive] !**
