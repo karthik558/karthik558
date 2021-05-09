@@ -8,10 +8,13 @@
 ## <b>Spotify Playing </b>🎶
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/1TLtqSVyiUE5hReeSB8mua)
 
----
 ## <b> Github Trophys </b>🏆 
 [![trophy](https://github-profile-trophy.vercel.app/?username=karthik558&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&no-frame=true)
 
+## <b>Contribution Graph 💹
+<img src="https://activity-graph.herokuapp.com/graph?username=karthik558&theme=react-dark" width="635" /> 
+
+---
 ## <b> Profile Views </b>🔭
 ![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=flat-square&color=yellow&label=PROFILE+VIEWS)
 
