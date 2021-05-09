@@ -12,7 +12,6 @@
 ## <b> Github Trophys </b>🏆 
 [![trophy](https://github-profile-trophy.vercel.app/?username=karthik558&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&no-frame=true)
 
----
 ## <b> Profile Views </b>🔭
 ![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=flat-square&color=yellow&label=PROFILE+VIEWS)
 
@@ -49,7 +48,5 @@
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
- ## <b> Thanks for checking my profile </b>💑
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="52"> 
-<em><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em><b>
----
+ ### <b> Thanks for checking my profile 💑 </b><br>
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="52"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></br>
