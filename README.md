@@ -1,12 +1,14 @@
 <b><h1> Hi there, I'm K A R T H I K! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></b></h1>
 <h2> <b>I'm an Ethical Hacking Student and Android ROM/Kernel Developer !</h2><b>
 
-- <img alt="GIF" src="https://github.com/karthik558/karthik558/blob/master/images/developer.gif" width="25" /> **I’m currently working as [Network Support Executive] !**
+- <b><i><img alt="GIF" src="https://github.com/karthik558/karthik558/blob/master/images/developer.gif" width="25" /> **I’m currently working as [Network Support Executive] !**
 - <img alt="GIF" src="https://github.com/karthik558/karthik558/blob/master/images/linux.gif" width="25" /> **I’m currently styuding about Space.(NF)**
-- <img alt="GIF" src="https://github.com/karthik558/karthik558/blob/master/images/lightning.gif" width="18" /> Fun fact: I love to play with Photoshop and Luminar AI.
+- <img alt="GIF" src="https://github.com/karthik558/karthik558/blob/master/images/lightning.gif" width="18" /> Fun fact: I love to play with Photoshop and Luminar AI. </i></b>
 
 ## <b>Spotify Playing </b>🎶
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/1TLtqSVyiUE5hReeSB8mua)
+<!--img alt="Spotify" src="https://spotify-readme.sp-xd.vercel.app/api/spotify" href="https://open.spotify.com/user/somnathpaul" &count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2-->
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 
 ## <b> Github Trophys </b>🏆 
 [![trophy](https://github-profile-trophy.vercel.app/?username=karthik558&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&no-frame=true)
