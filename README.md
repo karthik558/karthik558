@@ -1,5 +1,5 @@
-<b><h1> Hi there, I'm K A R T H I K! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></b></h1>
-<h2> <b>I'm an Ethical Hacking Student and Android ROM/Kernel Developer !</h2><b>
+![Header image](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/glow2021.jpg)
+<h3><b>I'm an Ethical Hacking Student and Android ROM/Kernel Developer !<b></h3>
 
 - <b><i><img alt="GIF" src="https://github.com/karthik558/karthik558/blob/master/images/developer.gif" width="25" /> **I’m currently working as [Network Support Executive] !**
 - <img alt="GIF" src="https://github.com/karthik558/karthik558/blob/master/images/linux.gif" width="25" /> **I’m currently styuding about Space.(NF)**
