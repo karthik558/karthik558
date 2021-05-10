@@ -3,8 +3,8 @@
 
 - <img alt="GIF" src="https://github.com/karthik558/karthik558/blob/master/images/developer.gif" width="25" /> **I’m currently working as [Network Support Executive] !**
 - <img alt="GIF" src="https://github.com/karthik558/karthik558/blob/master/images/linux.gif" width="25" /> **I’m currently styuding about Space.(NF)**
-- <img alt="GIF" src="https://github.com/karthik558/karthik558/blob/master/images/lightning.gif" width="25" /> Fun fact: I love to play with Photoshop and Luminar AI  😉
----
+- <img alt="GIF" src="https://github.com/karthik558/karthik558/blob/master/images/lightning.gif" width="18" /> Fun fact: I love to play with Photoshop and Luminar AI.
+
 ## <b>Spotify Playing </b>🎶
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/1TLtqSVyiUE5hReeSB8mua)
 
