@@ -16,7 +16,7 @@
 
 ---
 ## <b> Profile Views </b>🔭
-![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=flat-square&color=yellow&label=PROFILE+VIEWS)
+![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=flat-circle&color=red&label=PROFILE+HITS)
 
 ## <b> Operating System (Experiance)</b>💻 
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
