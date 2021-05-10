@@ -1,9 +1,9 @@
 <b><h1> Hi there, I'm K A R T H I K! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></b></h1>
 <h2> <b>I'm an Ethical Hacking Student and Android ROM/Kernel Developer !</h2><b>
 
-- 🔭 **I’m currently working as [Network Support Executive] !**
-- 🌱 **I’m currently styuding about Space.(NF)**
-- ⚡ Fun fact: I love to play with Photoshop and Luminar AI  😉
+- <img alt="GIF" src="https://github.com/karthik558/karthik558/blob/master/images/developer.gif" width="25" /> **I’m currently working as [Network Support Executive] !**
+- <img alt="GIF" src="https://github.com/karthik558/karthik558/blob/master/images/linux.gif" width="25" /> **I’m currently styuding about Space.(NF)**
+- <img alt="GIF" src="https://github.com/karthik558/karthik558/blob/master/images/lightning.gif" width="25" /> Fun fact: I love to play with Photoshop and Luminar AI  😉
 ---
 ## <b>Spotify Playing </b>🎶
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/1TLtqSVyiUE5hReeSB8mua)
