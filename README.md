@@ -20,11 +20,13 @@
 ## <b> Profile Views </b>🔭
 ![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=flat-circle&color=red&label=PROFILE+HITS)
 
-## <b> Operating System (Experiance)</b>💻 
+## <b> My Workspace </b>💻 
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![image](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![image](https://img.shields.io/badge/AMD-Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+<img src="https://img.shields.io/badge/RAM-16GB-%23007C5.svg?&style=for-the-badge&logoColor=white" />
+![image](https://img.shields.io/badge/AMD-VEGA8-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 <br />
 
 ## <b>Connect with me</b> 📱
