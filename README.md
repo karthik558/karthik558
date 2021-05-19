@@ -1,10 +1,18 @@
 ![Header image](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/glow2021.jpg)
-<h3><b>I'm an Ethical Hacking Student and Android ROM/Kernel Developer !<b></h3>
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-- <b><i><img alt="GIF" src="https://github.com/karthik558/karthik558/blob/master/images/developer.gif" width="25" /> **I’m currently working as [Network Support Executive] !**
-- <img alt="GIF" src="https://github.com/karthik558/karthik558/blob/master/images/linux.gif" width="25" /> **I’m currently styuding about Space.(NF)**
-- <img alt="GIF" src="https://github.com/karthik558/karthik558/blob/master/images/lightning.gif" width="18" /> Fun fact: I love to play with Photoshop and Luminar AI. </i></b>
 
+class EthicalHacking:
+    def __init__(self):
+        self.work = "Kernel/ROM Developer"
+        self.styuding = "Ethical Hacking"
+        self.interest = "To study about living and working on space"
+        self.hobby = "Play with photoshop and Luminar AI"
+
+me = Network Support Executive()
+```
 ## <b>Spotify Playing </b>🎶
 <!--img alt="Spotify" src="https://spotify-readme.sp-xd.vercel.app/api/spotify" href="https://open.spotify.com/user/somnathpaul" &count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2-->
 
