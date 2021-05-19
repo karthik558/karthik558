@@ -18,15 +18,24 @@ me = Network Support Executive()
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 
-## <b> Github Trophys </b>🏆 
-[![trophy](https://github-profile-trophy.vercel.app/?username=karthik558&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&no-frame=true)
-
-## <b>Contribution Graph 💹
-<img src="https://activity-graph.herokuapp.com/graph?username=karthik558&theme=react-dark" width="635" /> 
+---
+<details>
+<summary><b> Click here to check my Github status</summary>
+<p align="left">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=karthik558&show_icons=true&hide=issues&count_private=true&theme=great-gatsby">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik558&hide=makefile,perl,shell,python&theme=great-gatsby"
+</p>
+</details>
 
 ---
+## <b> Github Trophys </b>🏆 
+[![trophy](https://github-profile-trophy.vercel.app/?username=karthik558&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&no-frame=true)</br>
+## <b>Contribution Graph 💹
+<img src="https://activity-graph.herokuapp.com/graph?username=karthik558&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" width="640" /> </br>
+
 ## <b> Profile Views </b>🔭
-![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=flat-circle&color=red&label=PROFILE+HITS)
+![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=flat-square&color=orange&label=PROFILE+HITS)
 
 ## <b> My Workspace </b>💻 
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
