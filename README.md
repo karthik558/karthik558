@@ -38,8 +38,8 @@ me = Network Support Executive()
 ![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=flat-square&color=orange&label=PROFILE+HITS)
 
 ## <b> My Workspace </b>💻 
-![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black)
+![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black)
 ![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![image](https://img.shields.io/badge/AMD-Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 <img src="https://img.shields.io/badge/RAM-16GB-%23007C5.svg?&style=for-the-badge&logoColor=white" />
@@ -51,22 +51,22 @@ me = Network Support Executive()
 <a href="https://mail.google.com/mail/u/0/#inbox.com/channels/karthik.lal558@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.facebook.com/karthik.sp.5817">![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <a href="https://gitlab.com/karthik5581">![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)</a>
-<a href="https://twitter.com/karthiksp206">![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
-<a href="https://instagram.com/karthiksmokiez">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="https://discord.com/K A R T H I K#2039">![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a>
+<a href="https://twitter.com/karthiksp206">![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)</a>
+<a href="https://instagram.com/karthiksmokiez">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)</a>
+<a href="https://discord.com/K A R T H I K#2039">![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black)</a>
 
 ## <b>Design Skills </b>🎇
-![image](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
-![image](https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=for-the-badge&logo=Affinity-Photo&logoColor=white)
-![image](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
-![image](https://img.shields.io/badge/Altium%Designer-A5915F?style=for-the-badge&logo=Altium%Designer&logoColor=white)
-![image](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
-![image](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![image](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=black)
+![image](https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=for-the-badge&logo=Affinity-Photo&logoColor=black)
+![image](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=black)
+![image](https://img.shields.io/badge/Altium%Designer-A5915F?style=for-the-badge&logo=Altium%Designer&logoColor=black)
+![image](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=black)
+![image](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=black)
 
 
 ## <b>Languages and Tools </b>📘 🔧
-![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black)
 ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
