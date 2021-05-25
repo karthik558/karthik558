@@ -27,8 +27,6 @@ me = Network Support Executive()
 </p>
 </details>
 
-## <b> Daily Quotes 🌟
-![Quote](https://github-readme-quotes.herokuapp.com/quote?&animation=default&layout=default&font=default&no-frame=true&theme=dracula)
 ## <b> Github Trophys </b>🏆 
 [![trophy](https://github-profile-trophy.vercel.app/?username=karthik558&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&no-frame=true)</br>
 ## <b>Contribution Graph 💹
