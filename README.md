@@ -4,10 +4,10 @@
 # -*- coding: utf-8 -*-
 
 
-class EthicalHacking:
+class i am :
     def __init__(self):
         self.work = "Kernel/ROM Developer"
-        self.styuding = "Ethical Hacking"
+        self.completed = "Certified Ethical Hacking"
         self.interest = "To study about living and working on space"
         self.hobby = "Play with photoshop and Luminar AI"
 
