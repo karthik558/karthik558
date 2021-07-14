@@ -1,14 +1,13 @@
-![Header image](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/glow2021.jpg)
+![Header image](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/welcome.jpg)
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
 
 class i am :
     def __init__(self):
         self.work = "Kernel/ROM Developer"
         self.completed = "Certified Ethical Hacking"
-        self.interest = "To study about living and working on space"
+        self.interest = "To study about living and working on space and Make custom websites"
         self.hobby = "Play with photoshop and Luminar AI"
 
 me = Network Support Executive()
@@ -37,7 +36,6 @@ me = Network Support Executive()
 
 ## <b> My Workspace </b>💻 
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black)
-![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black)
 ![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![image](https://img.shields.io/badge/AMD-Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 <img src="https://img.shields.io/badge/RAM-16GB-%23007C5.svg?&style=for-the-badge&logoColor=white" />
@@ -57,7 +55,6 @@ me = Network Support Executive()
 ![image](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=black)
 ![image](https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=for-the-badge&logo=Affinity-Photo&logoColor=black)
 ![image](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=black)
-![image](https://img.shields.io/badge/Altium%Designer-A5915F?style=for-the-badge&logo=Altium%Designer&logoColor=black)
 ![image](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=black)
 ![image](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=black)
 
@@ -68,7 +65,6 @@ me = Network Support Executive()
 ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
