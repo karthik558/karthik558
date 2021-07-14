@@ -26,8 +26,6 @@ me = Network Support Executive()
 </p>
 </details>
 
-## <b> Github Trophys </b>🏆 
-[![trophy](https://github-profile-trophy.vercel.app/?username=karthik558&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&no-frame=true)</br>
 ## <b>Contribution Graph 💹
 <img src="https://activity-graph.herokuapp.com/graph?username=karthik558&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" width="640" /> </br>
 
