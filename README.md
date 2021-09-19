@@ -66,4 +66,4 @@ me = Network Support Executive()
 ---
 ![Footer image](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/footer.jpg)
 
-![Snake animation](https://github.com/psnascimento/psnascimento/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/karthik558/karthik558/blob/output/github-contribution-grid-snake.svg)
