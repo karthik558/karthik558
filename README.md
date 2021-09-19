@@ -23,8 +23,8 @@ me = Network Support Executive()
 </p>
 </details>
 
-## <b>Contribution Graph 💹
-<img src="https://activity-graph.herokuapp.com/graph?username=karthik558&bg_color=1a1a1a&color=ffd649&line=ff3b5b&point=fff" width="900" /> </br>
+## <b>Snake Graph 🐍
+![Snake animation](https://github.com/karthik558/karthik558/blob/output/github-contribution-grid-snake.svg)
 
 ## <b> Profile Views </b>🔭
 ![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=flat-round&color=ffa700&label=PROFILE+HITS)
@@ -65,5 +65,3 @@ me = Network Support Executive()
 
 ---
 ![Footer image](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/footer.jpg)
-
-![Snake animation](https://github.com/karthik558/karthik558/blob/output/github-contribution-grid-snake.svg)
