@@ -17,14 +17,14 @@ me = Network Support Executive()
 <details>
 <summary><b> Click here to check my Github status</summary>
 <p align="left">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=karthik558&show_icons=true&hide=issues&count_private=true&theme=great-gatsby">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=karthik558&show_icons=true&hide=issues&count_private=true&theme=merko">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik558&hide=makefile,perl,shell,python&theme=great-gatsby"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik558&hide=makefile,perl,shell,python&theme=tokyonight"
 </p>
 </details>
 
 ## <b>Contribution Graph 💹
-<img src="https://activity-graph.herokuapp.com/graph?username=karthik558&bg_color=0b0b0b&color=ff3b5b&line=ffd649&point=0069ff" width="550" /> </br>
+<img src="https://activity-graph.herokuapp.com/graph?username=karthik558&bg_color=1a1a1a&color=ffd649&line=ff3b5b&point=fff" width="550" /> </br>
 
 ## <b> Profile Views </b>🔭
 ![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=flat-round&color=ffa700&label=PROFILE+HITS)
@@ -39,7 +39,6 @@ me = Network Support Executive()
 
 ## <b>Connect with me</b> 📱
 <a href="https://t.me/karthik558">![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-
 <a href="https://www.facebook.com/karthik.sp.5817">![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <a href="https://gitlab.com/karthik5581">![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)</a>
 <a href="https://twitter.com/karthiksp206">![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)</a>
