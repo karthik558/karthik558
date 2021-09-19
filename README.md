@@ -64,5 +64,4 @@ me = Network Support Executive()
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
- ### <b> Thanks for checking my profile 💑 </b><br>
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="52"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></br>
+![Footer image](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/footer.jpg)
