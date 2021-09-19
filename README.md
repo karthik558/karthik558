@@ -3,11 +3,12 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class i am :
+class now :
     def __init__(self):
-        self.work = "Kernel/ROM Developer"
+        self.styuding = "Bachelor of Computer Applications (BCA)"
+        self.work = "Penetration Tester/Network Support Executive"
         self.completed = "Certified Ethical Hacking"
-        self.interest = "To study about living and working on space and Make custom websites"
+        self.interest = "To study about living and working on space"
         self.hobby = "Play with photoshop and Luminar AI"
 
 me = Network Support Executive()
