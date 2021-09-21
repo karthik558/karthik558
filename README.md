@@ -17,11 +17,11 @@ me = Network Support Executive()
 <details>
 <summary><b> Click here to check my Github status</summary>
 <p align="left">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=karthik558&show_icons=true&hide=issues&count_private=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" width="500" >
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=karthik558&show_icons=true&hide=issues&count_private=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" width="500" />
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik558&hide=html&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500" width="500" />
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik558&hide=html&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400" />
     <br>
-    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=karthik558&theme=holi-theme&hide_border=true" />
+    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=karthik558&theme=holi-theme&hide_border=true" width="500" />
     <br>
     <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=karthik558&hide_border=true&area=true&bg_color=010017&color=c5c8ff&line=9dc0ff&point=fff" width="500" />
 </p>
