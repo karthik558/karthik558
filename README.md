@@ -27,13 +27,13 @@ me = Network Support Executive()
 </p>
 </details>
 
-## <b>Snake Graph 🐍
+### <b>Snake Graph 🐍
 ![Snake animation](https://github.com/karthik558/karthik558/blob/output/github-contribution-grid-snake.svg)
 
-## <b> Profile Views </b>🔭
+### <b> Profile Views </b>🔭
 ![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=flat-round&color=ffa700&label=PROFILE+HITS)
 
-## <b> My Workspace </b>💻 
+### <b> My Workspace </b>💻 
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black)
 ![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![image](https://img.shields.io/badge/AMD-Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
@@ -41,7 +41,7 @@ me = Network Support Executive()
 ![image](https://img.shields.io/badge/AMD-VEGA8-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 <br />
 
-## <b>Connect with me</b> 📱
+### <b>Connect with me</b> 📱
 <a href="https://t.me/karthik558">![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="https://www.facebook.com/karthik.sp.5817">![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <a href="https://gitlab.com/karthik5581">![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)</a>
@@ -49,7 +49,7 @@ me = Network Support Executive()
 <a href="https://instagram.com/karthiksmokiez">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)</a>
 <a href="https://discord.com/K A R T H I K#2039">![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black)</a>
 
-## <b>Design Skills </b>🎇
+### <b>Design Skills </b>🎇
 ![image](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=black)
 ![image](https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=for-the-badge&logo=Affinity-Photo&logoColor=black)
 ![image](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=black)
@@ -57,7 +57,7 @@ me = Network Support Executive()
 ![image](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=black)
 
 
-## <b>Languages and Tools </b>📘 🔧
+### <b>Languages and Tools </b>📘 🔧
 ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black)
 ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
