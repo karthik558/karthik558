@@ -31,7 +31,7 @@ me = Network Support Executive()
 ![Snake animation](https://github.com/karthik558/karthik558/blob/output/github-contribution-grid-snake.svg)
 
 ### <b> Profile Views </b>🔭
-![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=flat-round&color=ffa700&label=PROFILE+HITS)
+![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=plastic&color=FF0000&label=P+R+O+F+I+L+E_-_H+I+T+S+) 
 
 ### <b> My Workspace </b>💻 
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black)
