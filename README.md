@@ -1,21 +1,10 @@
 ![Header image](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/welcome.jpg)
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class now :
-    def __init__(self):
-        self.styuding = "Bachelor of Computer Applications (BCA)"
-        self.work = "Penetration Tester/Network Support Executive"
-        self.completed = "Certified Ethical Hacking"
-        self.interest = "To study about living and working on space"
-        self.hobby = "Play with photoshop and Luminar AI"
-
-me = Network Support Executive()
-```
+<br>
+![Self Intro](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/python.jpg)
+<br>
 ![Snake animation](https://github.com/karthik558/karthik558/blob/output/github-contribution-grid-snake.svg)
 <br>
-![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=plastic&color=FF0000&label=P+R+O+F+I+L+E_-_H+I+T+S+)
+![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=round&color=8712ff&label=PROFILE+VIEWS)
 
 <details>
 <summary><b>Expand ⤵️</summary>
