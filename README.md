@@ -15,7 +15,7 @@ me = Network Support Executive()
 ```
 
 <details>
-<summary><b> Click here to check my Github status</summary>
+<summary><b>Expand ⭐</summary>
 <p align="left">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=karthik558&show_icons=true&hide=issues&count_private=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" width="500" />
     <br>
@@ -27,11 +27,11 @@ me = Network Support Executive()
 </p>
 </details>
 
-### <b>Snake Graph 🐍
 ![Snake animation](https://github.com/karthik558/karthik558/blob/output/github-contribution-grid-snake.svg)
-
-### <b> Profile Views </b>🔭
+<br>
 ![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=plastic&color=FF0000&label=P+R+O+F+I+L+E_-_H+I+T+S+) 
+<br>
+![Workspace](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/workspace.jpg)
 <br>
 <a href="https://gist.github.com/karthik558/4c488569d0cd59b7fcd9206cf63f3f2a">![Social Accounts](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/connectwithme.jpg)</a>
 <br>
