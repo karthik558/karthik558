@@ -48,24 +48,9 @@ me = Network Support Executive()
 <a href="https://twitter.com/karthiksp206">![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)</a>
 <a href="https://instagram.com/karthiksmokiez">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)</a>
 <a href="https://discord.com/K A R T H I K#2039">![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black)</a>
-
-### <b>Design Skills </b>🎇
-![image](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=black)
-![image](https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=for-the-badge&logo=Affinity-Photo&logoColor=black)
-![image](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=black)
-![image](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=black)
-![image](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=black)
-
-
-### <b>Languages and Tools </b>📘 🔧
-![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black)
-![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br>
-
+![Design Skills](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/designskills.jpg)
+<br>
+![Language Known](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/languages.jpg)
+<br>
 ![Footer image](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/footer.jpg)
