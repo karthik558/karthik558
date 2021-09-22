@@ -32,22 +32,8 @@ me = Network Support Executive()
 
 ### <b> Profile Views </b>🔭
 ![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=plastic&color=FF0000&label=P+R+O+F+I+L+E_-_H+I+T+S+) 
-
-### <b> My Workspace </b>💻 
-![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black)
-![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![image](https://img.shields.io/badge/AMD-Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-<img src="https://img.shields.io/badge/RAM-16GB-%23007C5.svg?&style=for-the-badge&logoColor=white" />
-![image](https://img.shields.io/badge/AMD-VEGA8-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-<br />
-
-### <b>Connect with me</b> 📱
-<a href="https://t.me/karthik558">![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a href="https://www.facebook.com/karthik.sp.5817">![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
-<a href="https://gitlab.com/karthik5581">![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)</a>
-<a href="https://twitter.com/karthiksp206">![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)</a>
-<a href="https://instagram.com/karthiksmokiez">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)</a>
-<a href="https://discord.com/K A R T H I K#2039">![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black)</a>
+<br>
+<a href="https://gist.github.com/karthik558/4c488569d0cd59b7fcd9206cf63f3f2a">![Social Accounts](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/connectwithme.jpg)</a>
 <br>
 ![Design Skills](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/designskills.jpg)
 <br>
