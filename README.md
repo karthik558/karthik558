@@ -1,7 +1,6 @@
 ![Header image](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/welcome.jpg)
 ![Snake animation](https://github.com/karthik558/karthik558/blob/output/github-contribution-grid-snake.svg)
 <br>
-![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=round&color=8712ff&label=PROFILE+VIEWS)
 
 <details>
 <summary><b>Expand ⤵️</summary>
