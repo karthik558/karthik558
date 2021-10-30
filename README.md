@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/welcome.jpg)
+![Header image](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/welcome.png)
 ![Snake animation](https://github.com/karthik558/karthik558/blob/output/github-contribution-grid-snake.svg)
 <br>
 
