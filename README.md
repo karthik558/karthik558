@@ -23,4 +23,4 @@
 <br>
 ![Language Known](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/languages.jpg)
 <br>
-![Footer image](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/footer.jpg)
+![Footer image](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/footer.png)
