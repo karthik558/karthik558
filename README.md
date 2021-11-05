@@ -15,12 +15,12 @@
 </p>
 </details>
 
-![Workspace](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/workspace.jpg)
+![Workspace](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/workspace.png)
 <br>
-<a href="https://gist.github.com/karthik558/4c488569d0cd59b7fcd9206cf63f3f2a">![Social Accounts](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/connectwithme.jpg)</a>
+<a href="https://gist.github.com/karthik558/4c488569d0cd59b7fcd9206cf63f3f2a">![Social Accounts](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/connectwithme.png)</a>
 <br>
-![Design Skills](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/designskills.jpg)
+![Design Skills](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/designskills.png)
 <br>
-![Language Known](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/languages.jpg)
+![Language Known](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/languages.png)
 <br>
 ![Footer image](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/footer.png)
