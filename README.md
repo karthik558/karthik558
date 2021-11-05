@@ -2,7 +2,7 @@
 <details>
 <summary><b>Expand ⚡</summary>
 <p align="center">
-    <img alt = "SNAKE ANIMATION" src="(https://github.com/karthik558/karthik558/blob/output/github-contribution-grid-snake.svg)">
+    <img alt = "SNAKE ANIMATION" src="https://github.com/karthik558/karthik558/blob/output/github-contribution-grid-snake.svg">
     <br>
     <img alt = "CURRENT STATS" src="https://github-readme-stats.vercel.app/api?username=karthik558&show_icons=true&count_private=true&line_height=25&title_color=42d9ff&icon_color=ee5f3c&text_color=fff&bg_color=000&hide_border=true" width="450" />
     <br>
