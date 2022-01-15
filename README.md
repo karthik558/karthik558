@@ -1,5 +1,5 @@
 ![Header image](https://raw.githubusercontent.com/karthik558/karthik558/master/assets/header.png)
-![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=flat-round&color=5758ff&label=PROFILE+HITS)
+![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=flat-round&color=d2162c&label=PROFILE+HITS)
 <details>
 <summary><b>Expand 🔻</summary>
 <p align="center">
