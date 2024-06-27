@@ -1,9 +1,9 @@
-![HEADER](assets/header.png)
-<a href="https://gist.github.com/karthik558/4c488569d0cd59b7fcd9206cf63f3f2a">![SOCIAL](assets/social.png)</a>
-![SKILL](assets/skills.png)
-<a href="https://karthiklal.in/contact.html">![CONNECT](assets/connect.png)</a>
+![HEADER](assets/header.png) <a href="https://karthiklal.in"></a>
+![SKILL](assets/skcontent.png)
+![FOOTER](assets/footer.png) <a href="https://karthiklal.in/contact"></a>
 
-<img src="https://komarev.com/ghpvc/?username=karthik558&style=flat-round&color=d2162c&label=VISITORS">
+
+<img src="https://komarev.com/ghpvc/?username=karthik558&style=flat-round&color=000000&label=Visitors">
 <details>
 <summary><b>Expand</summary> 
 <p align="center">
@@ -13,7 +13,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik558&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=201f1f&ring=890F0D&currStreakNum=FFF&fire=890F0D&sideNums=fff&dates=FFF&border=3b5cff&stroke=890F0D&currStreakLabel=3B5CFF&sideLabels=3B5CFF&line_height=20" width="550" />
     
 </p>
-
-If you want the figma file of this design, you can download it from [here](https://www.figma.com/file/g8Af8IV4KVKiHTPzuvksVb/GitHub-Profile-Banner?type=design&node-id=0%3A1&mode=design&t=hAeWngErcr5xlwzx-1)
 
 </details>
