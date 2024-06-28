@@ -1,7 +1,6 @@
-![HEADER](assets/header.png) <a href="https://karthiklal.in"></a>
+<a href="https://karthiklal.in">![HEADER](assets/header.png)</a>
 ![SKILL](assets/skcontent.png)
-![FOOTER](assets/footer.png) <a href="https://karthiklal.in/contact"></a>
-
+<a href="https://karthiklal.in/contact">![FOOTER](assets/footer.png)</a>
 
 <img src="https://komarev.com/ghpvc/?username=karthik558&style=flat-round&color=000000&label=Visitors">
 <details>
